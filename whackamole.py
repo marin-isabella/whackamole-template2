@@ -2,6 +2,8 @@ import pygame
 
 
 def main():
+    # adding code to show functionality of git add, commit, and push
+    print('hi')
     try:
         pygame.init()
         # You can draw the mole with this snippet:
