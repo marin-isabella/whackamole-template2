@@ -4,6 +4,9 @@ import pygame
 def main():
     # adding code to show functionality of git add, commit, and push
     print('hi')
+
+    # code for git pull demo
+    print('this is for git pull demo')
     try:
         pygame.init()
         # You can draw the mole with this snippet:
